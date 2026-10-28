@@ -1,0 +1,11 @@
+# Project Nazakat — dependencies
+# Core sim (already what the sandbox verified against)
+numpy>=1.24,<3.0
+
+# RL environment + training
+gymnasium>=0.29,<1.1
+stable-baselines3[extra]>=2.3,<3.0
+tensorboard>=2.15
+
+# Live rover/terrain viewer (only needed for visualizer.py)
+pygame>=2.5

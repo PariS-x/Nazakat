@@ -1,0 +1,15 @@
+object,n_episodes,grasp_success_rate_pct,mean_time_to_grasp_s,failed_grasp_count_per_20,object_drop_rate_pct,avg_grip_force_n,recovery_rate_pct,n_crushed,rl_convergence_episodes
+cube,20,100.0,1.291,0.0,0.0,30.081,,0,15717
+ball,20,100.0,1.291,0.0,0.0,30.081,,0,15717
+cylinder,20,100.0,1.291,0.0,0.0,30.081,,0,15717
+cube_unseen,20,95.0,1.323,1.0,0.0,30.069,,0,15717
+cylinder_unseen,20,100.0,1.291,0.0,0.0,30.081,,0,15717
+rock,20,90.0,1.393,2.0,0.0,30.095,,0,15717
+toy,20,100.0,1.291,0.0,0.0,30.081,,0,15717
+egg_surrogate,20,0.0,,20.0,0.0,14.689,,20,15717
+paper_cup,20,100.0,1.221,0.0,0.0,30.029,,0,15717
+sponge,20,100.0,1.221,0.0,0.0,30.029,,0,15717
+foam_ball,20,100.0,1.221,0.0,0.0,30.029,,0,15717
+smooth_bottle,20,80.0,1.398,4.0,0.0,30.145,,0,15717
+OVERALL_TRAIN,60,100.0,1.292,0.0,0.0,30.081,,0,15717
+OVERALL_TEST_GENERALIZATION,180,85.0,1.291,3.0,0.0,29.832,,20,15717

@@ -1,0 +1,25 @@
+# --- Python / editor ---
+__pycache__/
+*.pyc
+.vscode/
+# local virtual environment (recreate with requirements.txt)
+naz_env/
+
+# --- Large / generated training output (models go in GitHub Releases instead) ---
+runs/
+runs_ramped/
+model_d/
+*.zip
+tensorboard/
+
+# --- NASA MOLA terrain (130 MB, over GitHub's 100 MB limit; see README) ---
+mars_terrain/*.img
+
+# --- Not for a public repo: black book (signatures, SAP IDs), slides, Word files ---
+report/
+*.pptx
+*.docx
+
+# --- Hardware / acoustic ID: keep OUT until the provisional patent is filed ---
+acoustic_id/
+*.stl
