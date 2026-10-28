@@ -61,6 +61,5 @@ python -m pytest
 Trained models for the reported checkpoints are attached to the GitHub Release (too large for the repo).
 
 ## Citation
+Pre-print: https://www.scierxiv.com/article/scierxiv202610.0912.v1
 
-P. Sharma, V. Belsare, R. Jaiswal, R. Dalvi, P. Khare, M. Tiwari, “Nazakat: Compliant Morphology and
-Developmental Learning for Robotic Manipulation,” submitted to ICSSS 2026 (under review).
