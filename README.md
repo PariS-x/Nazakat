@@ -5,9 +5,6 @@ gripper morphology (rigid vs. cephalopod-inspired soft) crossed with learning st
 (sparse-reward RL vs. a six-stage infant-inspired developmental curriculum), trained with Soft Actor-Critic
 and evaluated on 12 objects over 3 random seeds per condition.
 
-Capstone project, Department of Computer Engineering, MPSTME, SVKM's NMIMS, Mumbai (2026–27).
-Pari Sharma, Vedant Belsare, Rudra Jaiswal, Riddhesh Dalvi. Mentor: Dr. Pragati Khare.
-
 ## Results (generalisation to 9 unseen objects, mean ± std over 3 seeds)
 
 | Condition | Gripper | Training | Train success | Unseen success |
